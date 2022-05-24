@@ -53,7 +53,7 @@ body {
 
   .header {
     background-color: black;
-    padding: 100px 40px;
+    height: 100px;
     color:white;
     text-align: center;
   }
@@ -72,7 +72,7 @@ body {
   .addBtn {
     padding: 20px;
     width: 25%;
-    color: gray;
+    color: rgb(19, 1, 1);
     float: left;
     text-align: center;
     font-size: 16px;
@@ -82,3 +82,19 @@ body {
     background-color: mediumturquoise;
   
   }
+  .main{
+    background-color: mediumturquoise;
+  
+   
+    color:rgb(14, 13, 13);
+    text-align: center;
+
+  }
+  .button-is-primary{
+
+    background-color: rgb(32, 209, 32);
+    border-radius: 2em;
+    width: 20px;
+  }
+
+  
